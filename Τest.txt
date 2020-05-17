@@ -8,3 +8,6 @@ git add
 git commit -m ""
 git log
 Git diff <filename>
+
+git remote add origin link
+git push -u origin master
